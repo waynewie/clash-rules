@@ -1,0 +1,25 @@
+# NAME: HBOMax
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,media.max.com
+
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,discomax
+DOMAIN-KEYWORD,max
+DOMAIN-KEYWORD,max.com
+DOMAIN-KEYWORD,discomax.com
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+IP-CIDR,103.115.43.2/32,no-resolve
+
+# 域名匹配
+DOMAIN,busy.any-any.prd.api.discomax.com
+DOMAIN,fly.asia.prd.media.max.com
+DOMAIN,akm.asia.prd.media.max.com
+DOMAIN,busy.any-latam.prd.api.max.com
+DOMAIN,pug.max.com
+DOMAIN,default.any-any.prd.api.max.com
+DOMAIN,images.cdn.prd.api.discomax.com
