@@ -6,10 +6,6 @@ DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,play.max.com
 DOMAIN-SUFFIX,pug.max.com
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,max.com
-DOMAIN-KEYWORD,discomax.com
-
 # 域名匹配
 DOMAIN,busy.any-any.prd.api.discomax.com
 DOMAIN,fly.asia.prd.media.max.com
