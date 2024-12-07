@@ -3,7 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,media.max.com
-
+DOMAIN-SUFFIX,play.max.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,discomax
@@ -23,3 +23,4 @@ DOMAIN,busy.any-latam.prd.api.max.com
 DOMAIN,pug.max.com
 DOMAIN,default.any-any.prd.api.max.com
 DOMAIN,images.cdn.prd.api.discomax.com
+DOMAIN,play.max.com
